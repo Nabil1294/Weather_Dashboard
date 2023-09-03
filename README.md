@@ -32,7 +32,7 @@ This is a simple weather application that allows a user to check weather for cur
 
 ### Deployed Page Link:
 
-
+https://nabil1294.github.io/Weather_Dashboard/
 
 ## Credits.
 
